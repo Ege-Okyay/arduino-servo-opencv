@@ -24,8 +24,13 @@ The project consists of the following components:
 
 2. Create a virtual envoirment (optional but recommended):
 ```
+Linux
 $ python3 -m venv env
 $ source env/bin/activate
+
+Windows
+> python -m venv env
+> env\scripts\activate
 ```
 
 3. Install the required libraries using pip:
