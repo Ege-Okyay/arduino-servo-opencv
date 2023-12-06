@@ -2,7 +2,7 @@
 
 ![Project Screenshot](image.webp)
 
-This project uses Mediapipe for hand tracking with a custom Python module and OpenCV for video capture to enable hand-controlled movement of a servo motor. The device detects hand motions and monitors the user's hand movement, adjusting the servo motor's position accordingly. The project offers an interactive and captivating experience by showcasing the combination of hardware control and computer vision capabilities.
+I created a project that enables hand gesture recognition using Mediapipe, OpenCV, and Python. I was able to communicate with an Arduino-based servo motor by using the PyFirmata module. I created this project to show how computer vision and hardware control can work together, offering an interactive interface for manipulating the Servo motor using hand gestures.
 
 ## Project Components
 
